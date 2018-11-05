@@ -2,8 +2,8 @@
 #make sure to edit the value of each key to replace < path to this directory >
 #with the correct path to this directory on your computer
 
-# my_songs = {
-# "Go Go GO" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/01.mp3',
+ my_songs = {
+#"Go Go GO" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/01.mp3',
 # "LiberTeens" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/02.mp3',
 # "Hamburg" =>  '< path to this directory >/jukebox-cli/audio/Emerald-Park/03.mp3',
 # "Guiding Light" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/04.mp3',
